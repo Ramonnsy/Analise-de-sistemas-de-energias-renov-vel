@@ -1,2 +1,2 @@
 # Python
-Primeira analise que fiz bem simples, com algumas funções que estou aprendendo e com 5 perguntas criada pelo ChatGPT
+Uma analise simples usando algumas funções do python para analise de dados
